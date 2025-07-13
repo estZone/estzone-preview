@@ -1,0 +1,35 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #fffbe6;
+    color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.container {
+    text-align: center;
+    padding: 20px;
+}
+.logo {
+    width: 100px;
+    margin-bottom: 20px;
+}
+.tagline {
+    font-size: 1.2em;
+    margin: 10px 0 20px 0;
+}
+button {
+    background: gold;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+}
+footer {
+    margin-top: 40px;
+    font-size: 0.9em;
+    color: #777;
+}
